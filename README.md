@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) This is Decoupled app in nest , with the serives are communicating through events , i have built a a basic ordering app , whihc can be used as a starter , will be adding more functionalitoes on the way 
 
 ## Installation
 
